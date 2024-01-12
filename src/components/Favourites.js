@@ -32,7 +32,7 @@ const Favourites = ({ minHeight }) => {
                     href="https://mail.google.com/mail/u/0/#inbox"
                     className="text-black font-medium text-lg"
                   >
-                   info@sumadula.com
+                   info@vagusevents.ind.in
                   </a>
                 </div>
               </div>

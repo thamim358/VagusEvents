@@ -56,7 +56,7 @@ const Hero = () => {
   return (
     <section className="hero wrapper " ref={heroRef}>
       <h1 className="ethereal">
-      Welcome to our <span ref={shutter1}></span>
+      Welcome to Vagus <span ref={shutter1}></span>
       </h1>
       <h1 className="canvas">
         event management <span ref={shutter2}></span>
